@@ -9,3 +9,10 @@ https://jacekdu.github.io/currency_calculator/
 
 
 ## Tool Utilised:
+
+- HTML - Living Standard,
+- CSS,
+- Javascript - ECMAScript 2020,
+- BEM convention,
+- Normalise.css,
+- The Open Graph Protocol.
