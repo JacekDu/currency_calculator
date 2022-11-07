@@ -12,7 +12,7 @@ This is very simple currency calculator which converts Polish Zloty (PLN) into e
 1. Enter value in PLN - (the first field from the top),
 2. Choose currency from drop-down menu - avilable: USD / Euro / GBP - (the second field from the top),
 3. Press button described as "Przelicz",
-4. Result will be displayed above the button.
+4. Result will occur above the button.
 
 ## Tool Utilised:
 
