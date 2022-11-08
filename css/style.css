@@ -10,8 +10,11 @@ html {
   
   .body {
     font-family: "Lato", sans-serif;
-    background-color: rgb(211, 209, 209);
-    background-image: url("../images/dollars_picture.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../images/background_050.png");
+    height: 100vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

@@ -1,9 +1,8 @@
 .form {
-  max-width: 450px;
+  max-width: 500px;
   margin: 0 auto;
   background-color: rgb(229, 223, 223);
   border-radius: 20px;
-  opacity: 93%;
 }
 
 .form__labelText {
