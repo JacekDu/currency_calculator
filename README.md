@@ -4,6 +4,8 @@
 
 https://jacekdu.github.io/currency_calculator/
 
+![](images/Animation.gif)
+
 ## Description:
 
 This is very simple currency calculator which converts Polish Zloty (PLN) into either USD, Euro, GBP.
