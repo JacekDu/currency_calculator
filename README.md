@@ -4,7 +4,7 @@
 
 https://jacekdu.github.io/currency_calculator/
 
-![](images/Animation.gif)
+![](images/animation_1.gif)
 
 ## Description:
 
