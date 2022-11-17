@@ -16,7 +16,7 @@ This is very simple currency calculator which converts Polish Zloty (PLN) into e
 3. Press button described as "Przelicz",
 4. Result will occur above the button.
 
-## Tool Utilised:
+## Tools Utilised:
 
 - HTML - Living Standard,
 - CSS,
