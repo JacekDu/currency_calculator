@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currency Calculator</title>
+  <link rel="icon" href="images/cc_200.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+    crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link href="css/style.css" rel="stylesheet">
+  <Link href="css/form.css" rel="stylesheet">
+  <script defer src="js/script.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,300&display=swap" rel="stylesheet">
+
+</head>
+
+<body class="body">
+  <form class="form js-form">
+    <fieldset class="form__fieldset">
+      <legend class="form__legend">Kalkulator walutowy</legend>
+      <p>
+        <label>
+          <span class="form__labelText">
+            Kwota w zł:
+          </span>
+          <input placeholder="Wpisz kwotę w zł PLN   " class="form__field js-amountInPLN" type="number" min="0" required
+            step="0.01">
+      </p>
+      <p>
+        <label>
+          <span class="form__labelText">
+            Wybierz walutę:
+          </span>
+          <select class="form__field js-currencyName">
+            <option value="USD">Dolar Amerykański USD</option>
+            <option value="EUR">Euro EUR</option>
+            <option value="GBP">Funt Brytyjski GBP</option>
+          </select>
+        </label>
+      </p>
+      <p class="form__calculationResult">Wynik przeliczenia: <strong class="js-calculation"></strong>
+      </p>
+      <p>
+        <button class="form__button">Przelicz</button>
+      </p>
+      <p>Kurs wymiany wg NBP z dnia 31-10-2022</p>
+    </fieldset>
+  </form>
+</body>
+
+</html>
