@@ -23,4 +23,4 @@ This is very simple currency calculator which converts Polish Zloty (PLN) into e
 - Javascript - ECMAScript 2020,
 - BEM convention,
 - Normalise.css,
-- GIF - [ScreenToGif](https://www.screentogif.com/)
+- GIF - [ScreenToGif](https://www.screentogif.com/) to record demo animation.
